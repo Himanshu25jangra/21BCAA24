@@ -1,0 +1,26 @@
+Changed File 
+
+
+ZENKO
+
+Introduction-
+	    Zenko, Scality’s multi-cloud controller, provides an open-source, platform-agnostic gateway to facilitate data replication and management for storage managers handling extreme data volumes over multiple clouds. Zenko provides a single integration point from which cloud data can be managed in several protocol spaces. Zenko offers these capabilities using the logic and much of the syntax of Amazon Web Services’ Simple Storage Service protocol (AWS S3) through its Cloud Server module.
+
+Project Summary-
+	
+Website			https://www.zenko.io
+Organization/Foundation Name	Scality
+License			Apache License 2.0
+Open/ Proprietary		Open
+Source Path		https://github.com/scality/Zenko
+
+Key Features:
+
+i) Multicloud management - Zenko's architecture is designed to connect with multiple cloud storages.
+ii) Data Securites - Zenko provides high secuties to the user's data with compaired to the other organizations It keeps updating their securites level for securing all data on different clouds.
+iii)  Metadata Management- Zenko gives the feature of managing metadata of the user. It is information about the data stored on different clouds.
+iv) Data Lifecycle Management  - Zenko gives ablity for user to change and update the data by accessing data frm different clouds.
+
+Zenko Cloud architecture uses multiple backed like ring, AWS S3,Azure. API calls are used to take request from users so that user can access ,edit or delete data from any private or public cloud used by it. With single platform user can control all his cloud servers.
+Now Zenko is used by many organization like connectUs , CommunicateWork etc.
+
